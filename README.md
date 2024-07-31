@@ -30,6 +30,6 @@ This project is a personal voice assistant named **Rai**, designed to perform va
    OpenWeatherMap API key
    WolframAlpha API key
 
-##**Outcomes**
+# Outcome
 
 Rai, the personal assistant, greets users with messages like "Good Morning," "Good Afternoon," or "Good Evening" based on the time of day. It listens for commands and performs actions such as opening websites (YouTube, Google, Gmail), capturing images, and checking the weather using real API requests. Rai can also provide the current time, answer questions related to computational topics, and handle errors related to unrecognized speech or connection issues.
